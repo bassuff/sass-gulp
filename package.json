@@ -1,0 +1,13 @@
+{
+  "name": "sass-gulp",
+  "version": "1.0.0",
+  "description": "a minimal sass setup with gulp",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "author": "Axel Winter <mail@axelwinter.de>",
+  "license": "ISC"
+}
